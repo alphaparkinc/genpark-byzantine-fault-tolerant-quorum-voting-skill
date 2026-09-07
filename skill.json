@@ -1,0 +1,15 @@
+{
+  "name": "genpark-byzantine-fault-tolerant-quorum-voting-skill",
+  "version": "1.0.0",
+  "description": "PBFT 3-phase quorum consensus engine tolerating up to f Byzantine agents among 3f+1 swarm nodes.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "byzantine-fault-tolerance",
+    "pbft",
+    "quorum-consensus",
+    "fault-tolerance",
+    "agentic-ai"
+  ]
+}
